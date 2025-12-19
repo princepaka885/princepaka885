@@ -1,0 +1,11 @@
+node_modules/
+.local_auth/
+settings.json
+.env
+*.log
+.DS_Store
+.vscode/
+coverage/
+.wwebjs_auth/
+.wwebjs_cache/
+session/

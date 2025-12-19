@@ -1,0 +1,30 @@
+{
+  "prefix": ".",
+  "ownerNumber": "+1234567890",
+  "ownerNumbers": [
+    "+1234567890"
+  ],
+  "public": true,
+  "ownerName": null,
+  "channelLink": null,
+  "group": {
+    "antilink": false,
+    "antibot": false,
+    "antiforeign": false,
+    "antigroupmention": false,
+    "welcome": true
+  },
+  "settings": {
+    "alwaysonline": false,
+    "antibug": false,
+    "anticall": false,
+    "antidelete": false,
+    "autoreact": false,
+    "autoreactstatus": false,
+    "autoread": false,
+    "autorecord": false,
+    "autorecordtyping": false,
+    "autotyping": false,
+    "autostatusview": false
+  }
+}
