@@ -1,4 +1,4 @@
-CODED BY:PRINCE
+
 # TeddyBot
 
 A WhatsApp bot built with `whatsapp-web.js`.
